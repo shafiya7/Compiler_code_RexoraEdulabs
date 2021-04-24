@@ -1,15 +1,7 @@
 
-
-
-
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
-
-/*When we encounter a cumulative sum value which we have already encountered before, which means that sub-array from the previous index+1 till the present index has equal number of 0’s and 1’s as they give a cumulative sum of 0 .*/
-
 
 
 public class Largest_subarray_with_eqal_1s_0s {
@@ -49,3 +41,4 @@ public class Largest_subarray_with_eqal_1s_0s {
 	
 	
 }
+
